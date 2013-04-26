@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dust.Web", "Dust.Web\Dust.Web.csproj", "{2E71F65E-C8A2-4673-8F17-9F0F79B2CA0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dust.Web.Tests", "Dust.Web.Tests\Dust.Web.Tests.csproj", "{BEB6A34F-1EBA-4F07-95FF-F8F13B895FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dust", "Dust\Dust.csproj", "{D13825AD-9461-4BEC-B860-968789E69532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dust.Web.TestConsole", "Dust.Web.TestConsole\Dust.Web.TestConsole.csproj", "{F20C987A-3254-4312-BF92-B91E228CB64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E71F65E-C8A2-4673-8F17-9F0F79B2CA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E71F65E-C8A2-4673-8F17-9F0F79B2CA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E71F65E-C8A2-4673-8F17-9F0F79B2CA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E71F65E-C8A2-4673-8F17-9F0F79B2CA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB6A34F-1EBA-4F07-95FF-F8F13B895FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB6A34F-1EBA-4F07-95FF-F8F13B895FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB6A34F-1EBA-4F07-95FF-F8F13B895FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB6A34F-1EBA-4F07-95FF-F8F13B895FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13825AD-9461-4BEC-B860-968789E69532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13825AD-9461-4BEC-B860-968789E69532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13825AD-9461-4BEC-B860-968789E69532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13825AD-9461-4BEC-B860-968789E69532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20C987A-3254-4312-BF92-B91E228CB64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20C987A-3254-4312-BF92-B91E228CB64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20C987A-3254-4312-BF92-B91E228CB64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20C987A-3254-4312-BF92-B91E228CB64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
